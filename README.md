@@ -80,17 +80,6 @@ Me especializo en conectar software, hardware y nube en un solo sistema.
 
 ---
 
-### 📊 Mi GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Tinex3&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinex3&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Contacto
 
 <div align="center">
