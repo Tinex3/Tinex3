@@ -28,8 +28,8 @@ Me especializo en conectar software, hardware y nube en un solo sistema.
 ### 💼 Experiencia
 
 **Programador Full Stack — Tekroy Electrónica** *feb. 2024 – actualidad*
-- Plataforma IoT en producción con **53 dispositivos**, ingesta cada **15 minutos** y **98.93% uptime**
-- APIs REST en Python + WebSockets en tiempo real con PostgreSQL, usadas por 3 usuarios
+- Plataforma IoT en producción con **53 dispositivos**, ingesta cada **5 minutos** y **98% uptime**
+- APIs REST en Python + WebSockets en tiempo real con PostgreSQL, usadas por 100 usuarios
 - Integración de Raspberry Pi, LoRaWAN, LTE y Modbus RTU
 - Firmware en C/C++ con FreeRTOS para sistemas en tiempo real
 - .NET en proyecto confidencial sector energía
